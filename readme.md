@@ -3,7 +3,7 @@
 
 ## Setup
 
-EC2 Instance Type: t2.micro
+Instance type: t2.micro
 
 // add commands for setup
 
