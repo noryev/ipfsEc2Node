@@ -5,7 +5,7 @@
 
 EC2-Configuration:
 
-commands for setup-
+// add commands for setup
 
 Setup an ipfs Desktop node in a few different configurations on an AWS EC2 Node
 
