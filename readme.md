@@ -15,4 +15,8 @@ All of my instructions will be done using SSH [EC2 Instance Connect and Session 
 
 
 
+## Advanced Configurations with Amazon Elastic File System (EFS)
+
+Setup Guide-
+
 ## Sources that helped you- 
