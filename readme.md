@@ -19,3 +19,6 @@ Setup Guide-
 ## Validation and Tests
 
 ## Sources that helped you- 
+
+https://medium.com/textileio/tutorial-setting-up-an-ipfs-peer-part-i-de48239d82e0
+
